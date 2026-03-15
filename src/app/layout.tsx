@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Madvith 🐺",
-  description: "systems programming enthusiast. projects: yapl (lang) | ykvs (db) | gb emulator (hardware) TS for money 💰| Go & C for fun | football | Code",
+  description: "my portfolio website",
 };
 
 export default function RootLayout({
