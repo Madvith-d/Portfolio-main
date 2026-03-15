@@ -70,7 +70,7 @@ Fedora's SELinux-first posture and sane defaults made me more comfortable using 
 To be fair, I still miss a few things.
 
 - The minimal, choose-everything install philosophy.
-- The Arch Wiki depth and clarity.
+- The Arch user repository where i could get any software.
 - The feeling of complete control over every layer.
 
 Arch made me a better Linux user. Fedora is currently making me a more consistent one.
